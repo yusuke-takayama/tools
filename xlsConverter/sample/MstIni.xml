@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<InitData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Analyse>
+    <eod>A</eod>
+    <line>5</line>
+    <key>3</key>
+  </Analyse>
+  <Publish>
+    <Header>
+      <header />
+      <footer />
+      <ext>.h</ext>
+      <type>c</type>
+    </Header>
+    <Json>
+      <header />
+      <footer />
+      <ext>.json</ext>
+    </Json>
+    <Csv>
+      <header />
+      <footer />
+      <ext>.csv</ext>
+    </Csv>
+    <MessagePack>
+      <header />
+      <footer />
+      <ext>.messagepack</ext>
+    </MessagePack>
+    <Valb>
+      <header />
+      <footer />
+      <ext>.valb</ext>
+    </Valb>
+  </Publish>
+</InitData>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<InitData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Analyse>
+    <eod>A</eod>
+    <line>3</line>
+    <key>1</key>
+	<ext_column>A,B,H</ext_column>
+  </Analyse>
+  <Publish>
+    <Strb>
+      <code>UTF-8</code>
+      <language>jp,en,ko,zhs,zht</language>
+      <header />
+      <footer />
+      <ext>.strb</ext>
+    </Strb>
+    <Htb>
+      <hash>B</hash>
+      <bit>32</bit>
+      <empty>true</empty>
+      <binaly_header />
+      <binaly_footer />
+      <binaly_ext>.htb</binaly_ext>
+      <source_header />
+      <source_footer>_Hash</source_footer>
+      <source_ext>.h</source_ext>
+    </Htb>
+    <StringXml>
+      <hash>B</hash>
+      <language>jp,en,ko,zhs,zht</language>
+      <header />
+      <footer>_string</footer>
+      <ext>.xml</ext>
+    </StringXml>
+	<Enum>
+	  <id>A</id>
+	  <define>B</define>
+	  <comment />
+	  <type>Define</type>
+	</Enum>
+  </Publish>
+</InitData>

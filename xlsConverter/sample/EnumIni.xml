@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<InitData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Analyse>
+    <eod>A</eod>
+    <line>2</line>
+    <key>1</key>
+	<ext_column>A,B,C</ext_column>
+  </Analyse>
+  <Publish>
+    <Enum>
+      <define>B</define>
+      <comment>C</comment>
+      <id>A</id>
+      <header />
+      <footer />
+      <ext>.h</ext>
+    </Enum>
+  </Publish>
+</InitData>
