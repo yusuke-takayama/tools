@@ -3,7 +3,6 @@
 @file xlsConverter
 @brief Excelからデータを読み込み、各フォーマットで出力します。
 @auther Yusuke Takayama
-@par Copyright (C) 2012 NUBEE Tokyo Co., Ltd. All rights reserved.*/
 /******************************************************************************/
 
 このツールはVisualC# 2010 Express にて作成されました。
